@@ -19,10 +19,6 @@ I'm also a huge fan of Docker.
 ### Techs I can work with
 
 <div style="display: inline_block">
-  <a href="https://code.visualstudio.com/">
-    <img align="center" alt="Hans-VSC" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  </a>
-  
   <a href="https://www.javascript.com/">
     <img align="center" alt="Hans-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
